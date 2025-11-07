@@ -82,6 +82,6 @@ The console output will resemble the following token-saving comparison:
 | **Total Tokens** | **168** | **85** |
 
 ### Actual comparison
-![Message 1](assets/Screenshot_2.png)
+![Token Comparison Screenshot](assets/screenshot_2.png)
 
 **Conclusion:** In this example, TOON reduced the total token usage by almost 41.30%, resulting in lower costs and faster processing.
