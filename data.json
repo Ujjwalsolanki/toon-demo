@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "gender": "Female",
+        "bio": "Software developer passionate data.",
+        "interests": "coding, reading, travel"
+    },
+    {
+        "id": 2,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "gender": "Male",
+        "bio": "Enjoys hiking and developing mobile apps.",
+        "interests": "hiking, photography, mobile dev"
+    },
+    {
+        "id": 3,
+        "first_name": "Charlie",
+        "last_name": "Brown",
+        "gender": "Male",
+        "bio": "Graphic designer focused on vector art.",
+        "interests": "illustration, gaming, vinyl records"
+    },
+    {
+        "id": 4,
+        "first_name": "Dana",
+        "last_name": "Lee",
+        "gender": "Female",
+        "bio": "Data analyst specializing in financial markets.",
+        "interests": "stocks, yoga, cooking"
+    },
+    {
+        "id": 5,
+        "first_name": "Ethan",
+        "last_name": "Miller",
+        "gender": "Male",
+        "bio": "Student and aspiring electrical engineer.",
+        "interests": "robotics, electronics, rock climbing"
+    },
+    {
+        "id": 6,
+        "first_name": "Fiona",
+        "last_name": "Garcia",
+        "gender": "Female",
+        "bio": "Veterinary technician with a love for large dogs.",
+        "interests": "animal rescue, jogging, gardening"
+    },
+    {
+        "id": 7,
+        "first_name": "Greg",
+        "last_name": "Wilson",
+        "gender": "Male",
+        "bio": "Project manager skilled in agile methodologies.",
+        "interests": "scuba diving, home brewing, history"
+    },
+    {
+        "id": 8,
+        "first_name": "Holly",
+        "last_name": "Chung",
+        "gender": "Female",
+        "bio": "Marketing specialist focused on social media strategy.",
+        "interests": "fashion, photography, digital art"
+    },
+    {
+        "id": 9,
+        "first_name": "Isaac",
+        "last_name": "Perez",
+        "gender": "Male",
+        "bio": "Freelance writer and avid science fiction fan.",
+        "interests": "writing, astronomy, backpacking"
+    },
+    {
+        "id": 10,
+        "first_name": "Ujjwal",
+        "last_name": "Solanki",
+        "gender": "Male",
+        "bio": "AI Engineer who loves to teach",
+        "interests": "coding, cricket, cooking"
+    }
+]
