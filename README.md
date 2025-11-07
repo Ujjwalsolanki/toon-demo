@@ -81,4 +81,7 @@ The console output will resemble the following token-saving comparison:
 | Completion Tokens | 45 | 20 |
 | **Total Tokens** | **168** | **85** |
 
-**Conclusion:** In this example, TOON reduced the total token usage by almost 50%, resulting in lower costs and faster processing.
+### Actual comparison
+![Token Comparison Screenshot](assets/screenshot_2.png)
+
+**Conclusion:** In this example, TOON reduced the total token usage by almost 41.30%, resulting in lower costs and faster processing.
